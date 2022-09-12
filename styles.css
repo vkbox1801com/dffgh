@@ -1,6 +1,7 @@
 @font-face {font-family: 'Segoe UI';src: url('../fonts/segoeui.ttf');font-weight: normal;;}
 @font-face {font-family: 'Segoe UI';src: url('../fonts/seguisb.ttf');font-weight: bold;}
 * {margin: 0;padding: 0;font-family: 'Segoe UI';}
+q
 
 body {background: url(../img/bg1.png) 50% top no-repeat, url(../img/bg2.png) bottom no-repeat, url(../img/bg3.png) 50% 36px repeat-y, #a8b64a;color: #414141;}
 h3 {font-weight: bold;font-size: 20px;color: #fefcc3;margin: 0 25px;}
